@@ -1,0 +1,6 @@
+{
+  "name": "Student Productivity",
+  "description": "A simple and motivating one-page student productivity website to encourage and support focused study sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
